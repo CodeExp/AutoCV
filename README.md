@@ -10,3 +10,7 @@ Planned features :
 - Generate a new CV in PDF format for each new application
 - Application management with record of documents sent and recruiters' contact details
 - Extensions to add connections to external services, social networks and other functionalities
+
+Technologies :
+- [ElectronJS](https://www.electronjs.org/)
+- [React Native](https://reactnative.dev/)
