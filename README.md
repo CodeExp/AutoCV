@@ -1,7 +1,7 @@
 AutoCV
 ======
 
-Curiculum Vitae CMS & Recruiter Relationship Manager.
+Curiculum Vitae Generator adapted for Static Web Hosting & Recruiter Relationship Manager.
 
 Planned features :
 - Record your route information in the application
