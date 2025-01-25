@@ -13,4 +13,4 @@ Planned features :
 
 Technologies :
 - [ElectronJS](https://www.electronjs.org/)
-- [React Native](https://reactnative.dev/)
+- [React](https://react.dev/)
